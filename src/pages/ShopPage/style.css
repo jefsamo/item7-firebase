@@ -1,0 +1,10 @@
+.nav-container {
+    height: 50px;
+    width:50px;
+    border-radius: 50%;
+    outline: no;
+    width:100%;
+    height:auto;
+    display: grid;
+    grid-template-columns: 20% 60%, 20%;
+}
