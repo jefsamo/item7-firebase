@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/item7-firebase/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/item7-firebase/static/js/main.04a7cb80.chunk.js",
-    "main.js.map": "/item7-firebase/static/js/main.04a7cb80.chunk.js.map",
+    "main.js": "/item7-firebase/static/js/main.cbb727e5.chunk.js",
+    "main.js.map": "/item7-firebase/static/js/main.cbb727e5.chunk.js.map",
     "runtime-main.js": "/item7-firebase/static/js/runtime-main.707aebde.js",
     "runtime-main.js.map": "/item7-firebase/static/js/runtime-main.707aebde.js.map",
     "static/js/2.565ea98c.chunk.js": "/item7-firebase/static/js/2.565ea98c.chunk.js",
     "static/js/2.565ea98c.chunk.js.map": "/item7-firebase/static/js/2.565ea98c.chunk.js.map",
     "index.html": "/item7-firebase/index.html",
-    "precache-manifest.175771d2df11205b1e87507377e6cd1c.js": "/item7-firebase/precache-manifest.175771d2df11205b1e87507377e6cd1c.js",
+    "precache-manifest.be49ab338f30f69cc13d45ea10d81b40.js": "/item7-firebase/precache-manifest.be49ab338f30f69cc13d45ea10d81b40.js",
     "service-worker.js": "/item7-firebase/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/item7-firebase/static/css/main.5ecd60fb.chunk.css.map",
     "static/js/2.565ea98c.chunk.js.LICENSE.txt": "/item7-firebase/static/js/2.565ea98c.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.707aebde.js",
     "static/js/2.565ea98c.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.04a7cb80.chunk.js"
+    "static/js/main.cbb727e5.chunk.js"
   ]
 }
